@@ -14,7 +14,11 @@ Founder at **Lua Labs**. One of 12 across India in the [Young Minds Fellowship](
 - [**whatsapp-agent**](https://github.com/mugilan-sakthivel/whatsapp-agent) — a personal AI living in WhatsApp. Three-tier memory, per-user Google Workspace tools.
 - [**voice-ai-workspace-agent**](https://github.com/mugilan-sakthivel/voice-ai-workspace-agent) — voice-first mobile agent for Google Workspace with approval-gated writes.
 - [**agent-harness**](https://github.com/mugilan-sakthivel/agent-harness) — a reliable deep-agent harness: deepagents + LangGraph + Gemini + MCP.
-- [**train-your-own-gpt**](https://github.com/mugilan-sakthivel/train-your-own-gpt) — autograd → makemore → nanoGPT on my own GPU. Learning to build LLMs from zero.
+- [**train-your-own-gpt**](https://github.com/mugilan-sakthivel/train-your-own-gpt) — autograd → makemore → nanoGPT on my own GPU.
+
+## Learning
+
+Going deep on ML by building it — my own LLM from scratch, to understand how neural networks actually work: backprop, attention, training. Not just calling APIs.
 
 ## Stack
 
