@@ -1,87 +1,28 @@
-# Hey, I'm Mugilan S 👋
+# Hey, I'm Mugilan 👋
 
+**AI engineer. I build production-ready agents and take things from 0 → 1.**
 
-**Software Product Engineer** building AI agents and scalable systems
+Head of Engineering at **Metaflow** — building the v3 marketing-agent platform from scratch.
+Founder at **Lua Labs**. One of 12 across India in the [Young Minds Fellowship](https://ymf.org.in/), backed by partners at Accel.
 
-Currently at **Kalvium Labs** | Building production AI solutions 
+**53rd of 12,885 worldwide** — HackerRank Orchestrate, 24-hour multi-modal agent build (June 2026).
 
----
+## Building
 
-## What I Do
+- [**caption-engine**](https://github.com/mugilan-sakthivel/caption-engine) — AI that learns a video editor's caption style from one After Effects project, then captions any raw video as a real editable AEP. Verifies its own output pixel-by-pixel (SSIM 0.99).
+- [**Lua**](https://github.com/tryLua/lua) — an AI that learns design from real websites and generates production-ready landing pages.
+- [**whatsapp-agent**](https://github.com/mugilan-sakthivel/whatsapp-agent) — a personal AI living in WhatsApp. Three-tier memory, per-user Google Workspace tools.
+- [**voice-ai-workspace-agent**](https://github.com/mugilan-sakthivel/voice-ai-workspace-agent) — voice-first mobile agent for Google Workspace with approval-gated writes.
+- [**agent-harness**](https://github.com/mugilan-sakthivel/agent-harness) — a reliable deep-agent harness: deepagents + LangGraph + Gemini + MCP.
+- [**train-your-own-gpt**](https://github.com/mugilan-sakthivel/train-your-own-gpt) — autograd → makemore → nanoGPT on my own GPU. Learning to build LLMs from zero.
 
-I build **AI-powered applications** that solve real problems:
-- Developing agentic systems using LangChain, LangGraph, and Genkit
-- Creating scalable backend architectures with Node.js and Express
-- Deploying containerized apps on Google Cloud and AWS
-- Optimizing LLM costs through prompt engineering and smart caching
+## Stack
 
+**Models** — GPT, Claude, Gemini
+**Agents** — LangChain, LangGraph, Vercel AI SDK, OpenAI SDK, Claude Agent SDK, MCP
+**Ship & observe** — Cloud Run, LangSmith, Langfuse
+**Foundations** — TypeScript, Python, PyTorch
 
-**Core Focus:** AI Agents • Full-Stack Development • Cloud Architecture • System Design
+## Say hi
 
-
----
-
-## Tech Stack
-
-**Languages:** JavaScript, Python, C++, Java, SQL  
-**AI/ML:** LangChain, LangGraph, Genkit, Gemini API, Transformers.js  
-**Backend:** Node.js, Express.js, REST APIs, WebSockets  
-**Frontend:** React, Next.js, Vite, Tailwind CSS  
-**Databases:** PostgreSQL, MongoDB, Supabase, Redis  
-**Cloud & DevOps:** Google Cloud Run, AWS, Docker, GitHub Actions  
-**Tools:** Prisma, Mongoose, Clerk, Cloudinary, Remotion
-
----
-
-## Featured Projects
-
-### [Scout AI](https://github.com/mugilankani/ScoutAI) - AI Hiring Agent
-Automated LinkedIn candidate sourcing, screening, and outreach system
-- **Tech:** Genkit, PostgreSQL, Prisma, React, Gemini LLM
-- **Impact:** Automated entire hiring pipeline from scraping to outreach
-- **Features:** Duplicate detection, background research, candidate scoring
-
-### [Screen](https://github.com/mugilankani/scren) - Call Auditing Agent
-AI-powered sales call analyzer that provides improvement feedback in <10 minutes
-- **Tech:** AWS, Node.js, Next.js, PostgreSQL, Supabase
-- **Impact:** Reduced call review time from hours to minutes
-- **Features:** Automated transcription, sentiment analysis, actionable insights
-
-### [Q Space](https://github.com/mugilankani/q-space-V2) - Personalized Learning Platform
-Adaptive learning system that analyzes content and provides individualized feedback
-- **Tech:** LangChain, PostgreSQL, React, Prisma, Gemini LLM
-- **Features:** Content analysis, question generation, performance tracking
-
-### [Data Motion AI](https://github.com/mugilankani/DataMotion-AI) - Infographic Video Generator
-Converts data and text into engaging infographic videos automatically
-- **Tech:** LangChain, Docker, AWS, Remotion, PostgreSQL
-- **Features:** AI-powered script generation, automated video rendering
-
----
-
-## Professional Experience
-
-**Software Product Engineer @ Kalvium Labs** (Apr 2025 - Present)
-- Built 10+ production AI agents for client projects
-- Reduced LLM costs through optimization (30%+ savings)
-- Led 3 teams and managed 5+ concurrent projects
-- Generated 80+ qualified leads for the company
-
----
-
-## Let's Connect
-
-- **Email:** mugilan.s951@gmail.com
-- **LinkedIn:** [linkedin.com/in/mugilansakthivel](https://linkedin.com/in/mugilansakthivel)
-- **Portfolio:** [mugilansakthivel](https://mugilans.in)
-- **Twitter:** @mugilansakthivel
-
----
-
-## Achievements
-
-- **Generative AI Learning Path** - Completed hands-on program
-- **Campus Coding Challenge Winner** - Solved 3/4 problems
-- **Mentored 100+ students** in career guidance
-
----
+[Portfolio](https://mugilans.in) · [LinkedIn](https://www.linkedin.com/in/mugilansakthivel/) · [X](https://x.com/MugilanKani) · mugilankani951@gmail.com
