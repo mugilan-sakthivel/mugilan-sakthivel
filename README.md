@@ -29,4 +29,4 @@ Going deep on ML by building it — my own LLM from scratch, to understand how n
 
 ## Say hi
 
-[Portfolio](https://mugilans.in) · [LinkedIn](https://www.linkedin.com/in/mugilansakthivel/) · [X](https://x.com/MugilanKani) · mugilankani951@gmail.com
+[Portfolio](https://mugilans.in) · [LinkedIn](https://www.linkedin.com/in/mugilansakthivel/) · [Instagram — AI content](https://www.instagram.com/mugilan__sakthivel/) · [X](https://x.com/MugilanKani) · mugilan.s951@gmail.com
